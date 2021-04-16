@@ -63,7 +63,7 @@ def get_weather(country, city):
     querystring = {"q": f"{city},{country}"}
 
     headers = {
-        'x-rapidapi-key': "bb99c4539dmshd6580b39ce65be7p1ac729jsn9040fd61491f",
+        'x-rapidapi-key': "bb99c4539dmshd6580b39ce65be7p1ac729jsn9040fd61491",
         'x-rapidapi-host': "community-open-weather-map.p.rapidapi.com"
     }
 
